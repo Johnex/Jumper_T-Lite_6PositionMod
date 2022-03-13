@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:pro",
+    "port": "COM7",
+    "programmer": "arduino:usbtinyisp",
+    "configuration": "cpu=8MHzatmega328",
+    "sketch": "jumptertlite_6position.ino",
+    "output": "./build"
+}
